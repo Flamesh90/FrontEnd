@@ -1,7 +1,6 @@
 {
   "name": "git",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,15 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flamesh90/FrontEnd.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Flamesh90/FrontEnd/issues"
+  },
+  "homepage": "https://github.com/Flamesh90/FrontEnd#readme",
+  "description": ""
 }
